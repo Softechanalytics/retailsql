@@ -13,7 +13,7 @@ This project demonstrates foundational SQL skills by exploring and analyzing ret
 ---
 ![link to Dataset](https://github.com/Softechanalytics/retailsql/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv)
 
-![link to SQL Code](
+![link to SQL Code](https://github.com/Softechanalytics/retailsql/blob/main/retail.sql)
 
 ## 🧾 Dataset Summary
 
