@@ -11,9 +11,10 @@ This project demonstrates foundational SQL skills by exploring and analyzing ret
 - **Database Name**: `p1_retail_db`
 - **Goal**: This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 ---
-![link to Dataset](
+![link to Dataset](https://github.com/Softechanalytics/retailsql/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv)
 
 ![link to SQL Code](
+
 ## 🧾 Dataset Summary
 
 The dataset simulates retail transactions and includes:
